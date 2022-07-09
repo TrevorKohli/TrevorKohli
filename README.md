@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrevorKohli
 - 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I have a Bachelor's in Mathematical Sciences, and Completed a Google Certificate course in Data Analytics
+- 🌱 I have a Bachelor's in Mathematical Sciences, and completed a Google Certificate course in Data Analytics
 - 💞️ I’m looking to collaborate on Data Analytics and Data Science projects. 
 - 📫 How to reach me -- Email: tjkohli@gmail.com
 -                        Linkedin: https://www.linkedin.com/in/trevor-kohli-892859234/
