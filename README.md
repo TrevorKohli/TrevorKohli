@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Analytics and Data Science projects. 
 - 📫 How to reach me -- Email: tjkohli@gmail.com
 -                        Linkedin: https://www.linkedin.com/in/trevor-kohli-892859234/
+                         Portfolio: https://trevorkohliportfolio.com/
 -                        
 
 <!---
